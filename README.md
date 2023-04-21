@@ -1,5 +1,5 @@
 # midterm2
-First run encoder.R to get encoded.txt, which is provide the encoded result.
+First run encoder.R to get encoded.txt, which is contained the encoded result of genotype.
 
 Then run pca.R to get the result for pca.
 
